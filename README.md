@@ -8,3 +8,10 @@ Eraser Functionality: Erase drawn elements by activating the eraser tool with th
 Multiple Color Options: Draw with various colors of brushes and pencils to make your sketches more dynamic.
 Shape Drawing Activation: Shape detection is triggered when the index and middle fingers are raised, while normal doodling occurs with the thumb and index finger.
 Intuitive Controls: Toggle shape detection ('B'), start/stop detection ('D'/'S'), and clear the canvas ('C') easily using the keyboard.
+
+![HANDSHAPE3](https://github.com/user-attachments/assets/5c264952-f6a3-4e61-940a-d7b819446696)
+
+![HANDSHAPE4](https://github.com/user-attachments/assets/009836d4-ddbc-41a6-b40b-4d4e6a2d3e21)
+![HANDSHAPE2](https://github.com/user-attachments/assets/e09ba953-1c55-4e6a-a83e-0e9e6b71ebfa)
+![FREEHAND](https://github.com/user-attachments/assets/0d54c4e1-2e75-429c-b2cd-74d9c8475619)
+

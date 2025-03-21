@@ -1,0 +1,3 @@
+# Ignore model.py and best_shape_model.pkl
+model.py
+best_shape_model.pkl

@@ -166,8 +166,5 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the project's coding style and includes appropriate tests.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
-*Created by [Your Name] on June 1, 2025.*
+*Created by Nikhil Nair on November, 2024.*

@@ -166,5 +166,12 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the project's coding style and includes appropriate tests.
 
+## Output
+![Image](https://github.com/user-attachments/assets/e6e16bb0-6a2b-40ea-b2ac-2a0e9ad598ad)
+![Image](https://github.com/user-attachments/assets/f21d5504-57d8-471c-a7ad-dacbcb73f32c)
+![Image](https://github.com/user-attachments/assets/3b285051-a709-477d-89f1-29c6c63feabc)
+![Image](https://github.com/user-attachments/assets/a0dc22dd-3512-4968-ac46-e71d6a88bac8)
+![Image](https://github.com/user-attachments/assets/a135cb7c-471b-4fdc-a0de-e55496b4db55)
+![Image](https://github.com/user-attachments/assets/4a40b0fe-ff71-40cd-a735-b6a197de89d6)
 ---
 *Created by Nikhil Nair on November, 2024.*

@@ -167,6 +167,7 @@ Contributions are welcome! To contribute:
 Please ensure your code follows the project's coding style and includes appropriate tests.
 
 ## Output
+Video: https://youtu.be/eVCFyMjoqds
 ![Image](https://github.com/user-attachments/assets/e6e16bb0-6a2b-40ea-b2ac-2a0e9ad598ad)
 ![Image](https://github.com/user-attachments/assets/f21d5504-57d8-471c-a7ad-dacbcb73f32c)
 ![Image](https://github.com/user-attachments/assets/3b285051-a709-477d-89f1-29c6c63feabc)

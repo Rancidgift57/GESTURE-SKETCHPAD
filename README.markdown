@@ -42,7 +42,7 @@ To run Gesture Sketchpad, ensure you have the following:
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/gesture-sketchpad.git
+   git clone https://github.com/Rancidgift57/GESTURE-SKETCHPAD.git
    cd gesture-sketchpad
    ```
 
